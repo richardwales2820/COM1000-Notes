@@ -97,6 +97,7 @@ does not necessarily increase as the relationship becomes more intimate
 - Americans are more concerned with clarity
 
 > Relational satisfaction and disclosure are curvilinearly related
+
 - Satisfaction is lowest with no disclosure and with excessive disclosure
 - Highest when disclosure is provided at moderate levels
 
