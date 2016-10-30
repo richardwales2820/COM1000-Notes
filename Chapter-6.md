@@ -10,6 +10,7 @@ Chapter 6
 ## Interpersonal relationships
 > Associations between at least two people who are interdependent, who use some 
 consistent patterns of interaction, and who have interacted for an extended period of time.
+
 - Two or more people
     - Often just two people.
         - Dating couple
@@ -68,10 +69,12 @@ consistent patterns of interaction, and who have interacted for an extended peri
         - Grandparents seen as more empathetic and positive
 > Negative disclosure is directly related to the intimacy of the relationship; however, positive disclosure 
 does not necessarily increase as the relationship becomes more intimate
+
 - We disclose positive information all the time
 - Negative information is disclosed more as we become more comfortable with someone
 
 > Disclosure may be avoided for a variety of reasons
+
 - Relational partners may avoid self-disclosure for reasons of 
     - Self-protection
     - Relationship protection
@@ -79,6 +82,7 @@ does not necessarily increase as the relationship becomes more intimate
     - Social appropriateness
 
 > Disclosure varies across cultures
+
 - Self-disclosure is not uniformly values or disvalued around the world
 - Chinese professionals
     - Blunt assertiveness
